@@ -9,7 +9,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  background-color: #f9fafb;
+  background: linear-gradient(to right, #f9fafb, #d2d6db);
 }
 
 * {
